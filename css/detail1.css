@@ -1,0 +1,23 @@
+html,body,.container {
+    height: 100%;
+   }
+   .container {
+    display: table; 
+   }
+   .row
+   {
+    height: 100%;
+    display: table-row;
+   }
+   .vertical-center
+   {
+    display: table-cell;
+    float: none;
+    vertical-align: middle;
+   }
+   img{
+       margin-top: 30px;
+   }
+   #imgdiv{
+        margin-top: 180px;
+   }
