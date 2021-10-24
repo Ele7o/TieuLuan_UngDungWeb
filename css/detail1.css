@@ -1,5 +1,6 @@
 html,body,.container {
     height: 100%;
+    width: 100%;
    }
    .container {
     display: table; 
@@ -7,6 +8,7 @@ html,body,.container {
    .row
    {
     height: 100%;
+    width: 100%;
     display: table-row;
    }
    .vertical-center
@@ -16,8 +18,16 @@ html,body,.container {
     vertical-align: middle;
    }
    img{
-       margin-top: 30px;
+       margin-top: 70px;
+       width: 100%;
    }
-   #imgdiv{
-        margin-top: 180px;
+   #btnController {
+    
+    margin-top: 30px;
+    position: static;
+    align-items: center;
+    /* margin-left: auto;
+    margin-right: auto; */
    }
+
+   
