@@ -17,5 +17,12 @@ $(document).ready(function(){
             window.location = url;
         }
         return false;
+    });
+    $('#chapterSelectRund').on('change', function(){
+        var url = $(this).val();
+        if(url){
+            window.location = url;
+        }
+        return false;
     })
 });
