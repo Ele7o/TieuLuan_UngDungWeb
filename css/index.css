@@ -1,3 +1,4 @@
+
 img{
     border-radius: 20px;
     
@@ -9,17 +10,22 @@ img{
     border-radius: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.cover-photo:hover{
+/* .cover-photo:hover{
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
-}
+} */
 .cover-card:hover{
     border-radius: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
 }
+.card-body-hover:hover{
+    border-radius: 0px 0px 20px 20px;
+    background-color:rgb(30, 59, 114);
+}
+
 .list-group-item:hover{
     background-color: rgba(0, 0, 0, 0.7);
-    color:aliceblue;
+    color:aliceblue;    
 }
 a{
     text-decoration: none;
