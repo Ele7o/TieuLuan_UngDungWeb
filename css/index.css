@@ -1,4 +1,6 @@
-
+.navbar{
+    background-color: yellow;
+}
 img{
     border-radius: 20px;
     
@@ -18,9 +20,21 @@ img{
     border-radius: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
 }
-.card-body-hover:hover{
+.card-body-hover-manga1:hover{
     border-radius: 0px 0px 20px 20px;
-    background-color:rgb(30, 59, 114);
+    background-color:rgb(91, 187, 235);
+}
+.card-body-hover-manga2:hover{
+    border-radius: 0px 0px 20px 20px;
+    background-color:rgb(187, 65, 125);
+}
+.card-body-hover-manga3:hover{
+    border-radius: 0px 0px 20px 20px;
+    background-color:rgb(253, 248, 54);
+}
+.card-body-hover-manga4:hover{
+    border-radius: 0px 0px 20px 20px;
+    background-color:rgb(255, 50, 161);
 }
 
 .list-group-item:hover{
