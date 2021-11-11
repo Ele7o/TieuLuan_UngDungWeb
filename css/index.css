@@ -8,6 +8,9 @@ img{
 .cover-photo{
     border-radius: 20px 20px 0px 0px;
 }
+.cover-photo-nofilter{
+    border-radius: 20px 20px 20px 20px;
+}
 .cover-card{
     border-radius: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
