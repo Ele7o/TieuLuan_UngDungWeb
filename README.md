@@ -13,28 +13,28 @@ This is a static manga website
 │   └───tagger
 ├───js
 └───images
-│   ├───manga1
-│   │   ├───banner
-│   │   ├───cover
-│   │   └───src
-│   │       ├───Chapter1
-│   │       ├───Chapter2
-│   │       ├───Chapter3
-│   │       ├───Chapter4
-│   │       ├───Chapter5
-│   │       └───Chapter6
-│   ├───manga10
-│   ├───manga11
-│   ├───manga12
-│   ├───manga2
-│   ├───manga3
-│   ├───manga4
-│   ├───manga5
-│   ├───manga6
-│   ├───manga7
-│   ├───manga8
-│   ├───manga9
-│   └───src
+    ├───manga1
+    │   ├───banner
+    │   ├───cover
+    │   └───src
+    │       ├───Chapter1
+    │       ├───Chapter2
+    │       ├───Chapter3
+    │       ├───Chapter4
+    │       ├───Chapter5
+    │       └───Chapter6
+    ├───manga10
+    ├───manga11
+    ├───manga12
+    ├───manga2
+    ├───manga3
+    ├───manga4
+    ├───manga5
+    ├───manga6
+    ├───manga7
+    ├───manga8
+    ├───manga9
+    └───src
        └───error
  ```
 
